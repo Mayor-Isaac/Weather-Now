@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@import "tailwindcss";   
+
+html {
+  font-size: 62.5%;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  font-size: 1.6rem;
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
+  background-color: hsl(243, 96%, 9%);
+  color: hsl(0, 0%, 100%);
+  padding: 1.5rem 2rem;
+}
+.text-bricolage {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
